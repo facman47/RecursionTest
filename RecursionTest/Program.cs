@@ -10,6 +10,8 @@ namespace RecursionTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
+            Console.ReadKey();
         }
     }
 }
